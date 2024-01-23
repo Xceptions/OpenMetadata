@@ -32,6 +32,7 @@ docker/docker-compose-quickstart/docker-volume
 *.class
 venv
 env
+.env
 .java-version
 # logs
 logs
